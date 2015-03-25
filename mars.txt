@@ -2,4 +2,8 @@ Cold and dry, but everything is my favorite color.
 The two moons may be a problem for wolfman
 But the mummy will apreciate the lack of humidity.
 Lets party on mars then
+<<<<<<< HEAD
 Get git!
+=======
+the cat jumped over the moon.
+>>>>>>> 9dec46610c7379623766c12ce7f42e27385a2e44
